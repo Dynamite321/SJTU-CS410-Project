@@ -6,4 +6,5 @@ Data processing includes dimensionality reduction by PCA, category reductoion an
 Deep learning part is implemented by PyTorch.
 
 The neural network is a simple fully connected network with 3 hidden layers of sizes (256, 512, 256).
-Run: python main.py
+
+Run: python main.py (Python 3.7 && Pytorch 0.4.1)
