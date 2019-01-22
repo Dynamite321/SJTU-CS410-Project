@@ -1,2 +1,2 @@
 # SJTU-CS410-Project
-Data processing and deep learning of CS410 project
+Data processing, deep learning method and the report of CS410 project
