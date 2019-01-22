@@ -1,0 +1,193 @@
+primary hyperparathyroidism	7
+normal	67
+"Down syndrome, transient myleoproliferative disorder"	9
+"Down syndrome, acute megakaryoblastic leukaemia"	8
+"Down syndrome, non-leukaemic"	1
+ganglioneuroma	1
+neuroblastoma-poorly differentiated	14
+ganglioneuroblastoma	3
+neuroblastoma-differentiating	2
+neuroblastoma-undifferentiated	1
+ganglioneuroblastoma intermixed	1
+CVID	6
+XLA	5
+follicular thyroid adenoma	12
+follicular thyroid carcinoma	12
+colon carcinoma	32
+"AIDS-KS, HIV+, nodular (late) stage"	5
+"Classic-KS, HIV-, nodular (late) stage"	1
+"AIDS-KS, KSHV-"	1
+"iatrogenic-KS, KSHV-"	1
+"KSHV infection, 2 days"	6
+"KSHV infection, 7 days"	2
+"KSHV infection, 14 days"	1
+acute lymphoblastic leukemia	81
+embryonal rhabdomyosarcoma	18
+alveolar rhabdomyosarcoma	19
+acute promyelocytic leukemia	12
+healthy	18
+colon adenocarcinoma	8
+control brain	87
+Huntington's Disease (HD) Pathological Grade 2	45
+Huntington's Disease (HD) Pathological Grade 3	13
+Huntington's Disease (HD) Pathological Grade 1	38
+Huntington's Disease (HD) Pathological Grade 4	9
+Huntington's Disease (HD) Pathological Grade 0	9
+promyelocytic leukemia HL-60	2
+chronic myelogenous leukemia K562	2
+lymphoblastic leukemia MOLT-4	2
+Daudi Burkitt's lymphoma	2
+colorectal adenocarcinoma	65
+Raji Burkitt's lymphoma	2
+congestive heart failure	2
+sudden death	2
+intracranial hemorrhage NOS	2
+lung adenocarcinoma (NCI_Thesaurus C0152013) has DiseaseStaging Stage I	25
+lung adenocarcinoma (NCI_Thesaurus C0152013) has DiseaseStaging Stage III	14
+lung adenocarcinoma (NCI_Thesaurus C0152013) has DiseaseStaging Stage IV	2
+lung adenocarcinoma (NCI_Thesaurus C0152013) has DiseaseStaging Stage II	8
+seasonal allergy	3
+2h after infection with fasX-mutant Streptococcus pyogenes	2
+control sample without infection after 2h	2
+2h after infection with wildtype Streptococcus pyogenes	2
+4h after infection with fasX-mutant Streptococcus pyogenes	2
+4h after infection with wildtype Streptococcus pyogenes	2
+6h after infection with fasX-mutant Streptococcus pyogenes	2
+6h after infection with wildtype Streptococcus pyogenes	2
+8h after infection with fasX-mutant Streptococcus pyogenes	2
+control sample without infection after 8h	2
+8h after infection with wildtype Streptococcus pyogenes	2
+adenocarcinoma	12
+monophasic synovial sarcoma	10
+leiomyosarcoma	8
+Ewing's Sarcoma	5
+chondrosarcoma	7
+osteosarcoma	21
+myxoid liposarcoma	7
+lipoma	3
+neurofibroma	4
+fibromatosis	5
+dedifferentiated chondrosarcoma	3
+well-differentiated liposarcoma	3
+schwannoma	4
+malignant peripheral nerve sheath tumor	4
+sarcoma	3
+chondroblastoma	4
+chordoma	4
+chondromyxoid fibroma	4
+no tendon xanthomas	2
+tendon xanthomas	2
+prostate cancer	71
+precursor T lymphoblastic leukemia	99
+Burkitt's lymphoma	8
+breast carcinoma	36
+chronic myelogenous leukemia	20
+T cell acute lymphoblastic leukemia	21
+chronic myeloid leukemia	45
+low-stage neuroblastoma	5
+high-stage neuroblastoma	13
+B-cell lymphoma	37
+"B-cell lymphoma, dlbcl"	166
+"B-cell lymphoma, nhl"	18
+cystic fibrosis	6
+meningitis infected	23
+breast tumor	535
+"breast tumor, luminal"	62
+"breast tumor, basal"	25
+"breast tumor, normal like"	37
+response	6
+promyelocytic leukemia	6
+pcos	14
+renal clear cell carcinoma	9
+dermatomyositis	9
+duchenne muscular dystrophy	10
+facioscapulohumeral muscular dystrophy	14
+juvenile dermatomyositis	21
+bipolar disorder	40
+ebv infection	6
+trauma	21
+Ischemia	9
+myocardial infarction	12
+current smoker	34
+former smoker	18
+metabolic syndrome	24
+acute myeloid leukemia	293
+alzheimer's disease	22
+"breast cancer cells, adenovirus expressing GFP"	10
+UV treated	3
+colorectal cancer	6
+barrett's esophagus	8
+mitochondrial disorder	15
+"breast cancer, inflammatory"	49
+"T-cell lymphoblastic lymphoma, T-LL"	9
+"T-cell acute lymphoblastic leukemia, T-ALL"	10
+"B-cell acute lymphoblastic leukemia, B-ALL"	10
+emphysema	30
+"grade 2, primary hnscc"	8
+"acute promyelocytic leukemia, apl"	10
+aml	20
+acute monoblastic/monocytic leukemia	7
+acute myelomonocytic leukemia	5
+acute erythroid leukemia	1
+ischemic cardiomyopathy	10
+nonischemic cardiomyopathy	15
+acute rejection	7
+inflammatory myopathy	2
+myositis	5
+polymyositis	2
+"response, dominant negative"	6
+uterine fibroid	29
+"pituitary adenoma, non-functioning"	1
+"pituitary adenoma, ACTH-secreting"	1
+"pituitary adenoma, GH-secreting"	1
+"pituitary adenoma, PRL-secreting"	1
+atopic mild asthmatics	13
+non-atopic mild asthma	2
+atopic severe asthma	49
+"cardiovascular disease, obesity"	24
+lung cancer	18
+breast cancer	139
+atrial fibrillation	10
+squamous cell carcinoma	27
+"acute lymphoblastic leukemia, chemotherapy response"	129
+"pulmonary disease, cystic fibrosis"	9
+uterated prostate cancer	1
+ulcerative colitis	3
+irritable bowel syndrome	5
+glioblastoma	18
+colon cancer	5
+pterygium	8
+periodontitis	9
+"brain tumor, glioblastoma"	3
+hlrcc	2
+adenovirus expressing GFP	8
+"carcinoma in situ, bladder tumor"	13
+bladder tumor	16
+"t3b, bladder tumor"	4
+t4b	1
+"t4b, bladder tumor"	3
+"t3a, bladder tumor"	2
+"t4a, bladder tumor"	2
+carcinoma in situ	5
+germ cell tumor	101
+becker muscular dystrophy	5
+amyotrophic lateral sclerosis	9
+dysferlinopathy	10
+calpainopathy	10
+Emery-Dreifuss muscular dystrophy	8
+ limb-girdle muscular dystrophy type 2I	7
+acute quadriplegic myopathy	5
+hereditary spastic paraplegia	4
+cockayne syndrome	8
+oral squamous cell carcinoma	16
+"cardiomyopathy, calcifications"	5
+cardiomyopathy	7
+Huntington's disease	113
+progeria syndrome	9
+bone marrow relapse	113
+cololrectal tumor	37
+"lung cancer, cytotoxicity"	10
+squamous cell cancer	9
+small cell cancer	10
+lymphoma	5
+brain tumor	100
