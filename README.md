@@ -9,7 +9,7 @@ The neural network is a simple fully connected network with 3 hidden layers of s
 ## Dependencies
 - Python 3.7
 - Pytorch 0.4.1
-## Run
+## Run Training Phase
 ```bash
 python train.py 
 ```
