@@ -1,4 +1,4 @@
-# SJTU-CS410-Project (Gene Chips Analysis
+# SJTU-CS410-Project (Gene Chips Analysis)
 Data processing, deep learning method and the report of CS410 project (Gene Chips Classification)
 ## Data Processing
 Data processing includes dimensionality reduction by PCA, category reductoion and merging categories.
